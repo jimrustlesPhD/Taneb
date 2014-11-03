@@ -1,4 +1,4 @@
 Taneb
 =====
 
-A multi-functional Haskell compiler.
+Taneb Taneb-Taneb Taneb Taneb.
